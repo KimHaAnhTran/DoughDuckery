@@ -1,6 +1,6 @@
 # Dough Duckery
 CLICK TO PLAY ON WEB<br>
-https://ducktran.itch.io/commercial-fishing <br><br>
+https://ducktran.itch.io/commercial-fishing <br>
 <br>
 # About Game
 Duck is the ambitious owner of a newly-opened bakery. However, to truly kickstart his business, he must first gather some ingredients and, most importantly, the Golden Bread. Rumors say that such a bread dwells within the deepest lair of the dungeons, guarded by the Great Big Goose. <br>
