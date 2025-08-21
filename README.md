@@ -8,7 +8,7 @@ The player can move and jump via the arrow keys and space key, shoot bullets by 
 ![Test Image 4](https://img.itch.zone/aW1nLzIxMjM3MzgyLnBuZw==/315x250%23c/EMZsxQ.png)
  <br>
 # Background
-This is my entry to the 2023-2024 FBLA Wisconsin Video Game Design event. The game is made in Unity, prominently featuring puzzle design and AI state machine boss fight.<br>
+This is my entry to the 2023-2024 FBLA Wisconsin Video Game Design event. The game is made in Unity in 2.5 months, prominently featuring puzzle design and AI state machine boss fight.<br>
 # Accessing Scripts & Art Assets
 **> Assets** <br>
 Everything is organized by file type, such as animation, C# script, art, prefabs, scenes, etc.
